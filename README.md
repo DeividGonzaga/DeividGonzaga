@@ -17,7 +17,7 @@ Projeto desenvolvido com JavaScript puro para praticar lógica de programação,
 - Utilização de Promises e `async/await`
 - Simulação de consultas assíncronas
 
-🔗 Em breve: link do repositório
+🔗 Link do projeto: https://github.com/DeividGonzaga/gerenciador-de-pedidos-js
 
 ### ✈️ CRM para Agência de Viagens
 
