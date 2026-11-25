@@ -29,7 +29,7 @@ CRM desenvolvido no Salesforce para simular a operação de uma agência de viag
 - Controle de acesso e permissões
 - Relatórios e dashboards
 
-🔗 Link do projeto: COLOQUE SEU LINK AQUI
+🔗 Link do projeto: https://github.com/DeividGonzaga/salesforce-travel-agency-crm
 
 ---
 
