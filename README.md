@@ -6,11 +6,30 @@ Atualmente estou aprofundando meus conhecimentos em lógica de programação, de
 
 ---
 
-## 🎯 Objetivo profissional
+## 🚀 Projetos em destaque
 
-Busco minha primeira oportunidade na área de desenvolvimento, com foco em **Backend JavaScript/Node.js**.
+### 🛒 Gerenciador de Pedidos
 
-Meu objetivo é evoluir na construção de APIs e aplicações backend, explorando futuramente integrações com Blockchain e Smart Contracts utilizando Solidity.
+Projeto desenvolvido com JavaScript puro para praticar lógica de programação, manipulação de dados e operações assíncronas.
+
+- Manipulação de arrays com `map()`, `filter()`, `find()` e `reduce()`
+- Tratamento de erros com `throw`, `try` e `catch`
+- Utilização de Promises e `async/await`
+- Simulação de consultas assíncronas
+
+🔗 Em breve: link do repositório
+
+### ✈️ CRM para Agência de Viagens
+
+CRM desenvolvido no Salesforce para simular a operação de uma agência de viagens.
+
+- Gestão de clientes, destinos, pacotes e reservas
+- Automações com Salesforce Flow
+- Envio automático de e-mails
+- Controle de acesso e permissões
+- Relatórios e dashboards
+
+🔗 Link do projeto: COLOQUE SEU LINK AQUI
 
 ---
 
@@ -25,6 +44,16 @@ Meu objetivo é evoluir na construção de APIs e aplicações backend, exploran
 - Tratamento de erros
 - Salesforce e automações com Flow
 - Solidity e Smart Contracts (em desenvolvimento)
+
+---
+
+##
+
+## 🎯 Objetivo profissional
+
+Busco minha primeira oportunidade na área de desenvolvimento, com foco em **Backend JavaScript/Node.js**.
+
+Meu objetivo é evoluir na construção de APIs e aplicações backend, explorando futuramente integrações com Blockchain e Smart Contracts utilizando Solidity.
 
 ---
 
