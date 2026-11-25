@@ -29,7 +29,7 @@ CRM desenvolvido no Salesforce para simular a operação de uma agência de viag
 - Controle de acesso e permissões
 - Relatórios e dashboards
 
-🔗 Link do projeto: https://github.com/DeividGonzaga/salesforce-travel-agency-crm
+🔗 Link do projeto: [salesforce-travel-agency-crm](https://github.com/DeividGonzaga/salesforce-travel-agency-crm)
 
 ---
 
@@ -42,12 +42,10 @@ CRM desenvolvido no Salesforce para simular a operação de uma agência de viag
 - Funções e programação assíncrona
 - Promises e async/await
 - Tratamento de erros
-- Salesforce e automações com Flow
+- Salesforce e automação com Flow
 - Solidity e Smart Contracts (em desenvolvimento)
 
 ---
-
-##
 
 ## 🎯 Objetivo profissional
 
