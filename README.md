@@ -57,4 +57,4 @@ Meu objetivo é evoluir na construção de APIs e aplicações backend, exploran
 
 ## 📚 Em constante evolução
 
-Acredito no aprendizado através da prática. Estou desenvolvendo projetos, estudando novas tecnologias e compartilhando minha evolução enquanto construo minha trajetória como desenvolvedor.
+Acredito no aprendizado através da prática. Estou desenvolvendo projetos, estudando novas tecnologias e compartilhando minha evolução enquanto construo minha trajetória como Developer.
